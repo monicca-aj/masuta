@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">MONICCA</string>
+
+    <!-- sign in -->
+    <string name="signin_desc_img">Monicca App Logo</string>
+    <string name="signin_hint_username">Username or Email</string>
+    <string name="signin_hint_password">Password</string>
+    <string name="signin_btn_signin">sign in</string>
+    <string name="signin_btn_signup">sign up</string>
+    <string name="signin_text_demo">or try our</string>
+    <string name="signin_btn_demo">DEMO HERE!</string>
+
+    <!-- sign up -->
+    <string name="signup_desc_img">Sign Up Header</string>
+    <string name="signup_hint_email">Email</string>
+    <string name="signup_hint_password">Password</string>
+    <string name="signup_hint_income">Current Income</string>
+    <string name="signup_btn_signup">sign up</string>
+    <string name="signup_text_haveaccount">Already Have an Account?</string>
+    <string name="signup_btn_signin">Sign In!</string>
+
+    <!-- main -->
+    <string name="welcome">Welcome,</string>
+    <string name="fc">FINANCIAL\nCHECKUP</string>
+    <string name="ep">EDUCATION\nPLAN</string>
+    <string name="gb">GOAL BASE</string>
+    <string name="inv">INVESMENT</string>
+    <string name="nf">NEWS FEED</string>
+    <string name="pa">PERSONAL\nADVISOR</string>
+    <string name="cmd">COMMODITY</string>
+    <string name="hj">HAJ AND\nUMROH</string>
+    <string name="hst">HISTORY</string>
+
+    <!-- spinner -->
+    <string-array name="edulevel_list">
+        <item>Elementary School</item>
+        <item>Middle School</item>
+        <item>High School</item>
+        <item>College</item>
+    </string-array>
+    <string-array name="time_list">
+        <item>Month</item>
+        <item>Year</item>
+    </string-array>
+    <string-array name="object_list">
+        <item>Car</item>
+        <item>Bike</item>
+        <item>Marriage</item>
+        <item>Trip</item>
+        <item>Gadget</item>
+    </string-array>
+    <string-array name="language_list">
+        <item>English</item>
+        <item>Bahasa</item>
+    </string-array>
+
+    <!-- etc -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>
